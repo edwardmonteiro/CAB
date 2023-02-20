@@ -1,4 +1,4 @@
-# AWS re: Invent foi mais incremental do que inovador
+# Customer Advisory Board 
 
 [Edward Monteiro](https://github.com/edwardmonteiro/awsreinvent2021lessons/tree/master/manuscript).
 
