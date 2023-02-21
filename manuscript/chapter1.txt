@@ -1,8 +1,5 @@
 # Customer Advisory Board 
 
-[Edward Monteiro](https://github.com/edwardmonteiro/awsreinvent2021lessons/tree/master/manuscript).
-
-
 Nosso **objetivo** é criar uma comunidade **colaborativa** e focada no cliente que forneça feedback e insights valiosos para
 melhorar a experiência do cliente e impulsionar a eficiencia e inovação. Vamos alcançar isso envolvendo um grupo diversificado de pessoas, 
 capturando e analisando o feedback e os insights deles, e trabalhando para implementar mudanças e melhorias que estejam 
@@ -14,21 +11,20 @@ Nosso conselho consultivo de clientes **(CAB)** será um recurso crítico para e
 em constante evolução de nossos usuários, ao mesmo tempo em que impulsiona a inovação e o crescimento para nossa organização.
 
 # Intenções Estratégicas
-Aumentar a retenção e a fidelidade dos usuários, envolvendo-os e abordando suas preocupações, necessidades e preferências.
 
-Desenvolver novos produtos e serviços que atendam às necessidades e preferências em constante mudança dos clientes, ao mesmo
+**Aumentar a retenção e a fidelidade dos usuários**, envolvendo-os e abordando suas preocupações, necessidades e preferências.
+
+Desenvolver **produtos e serviços** que atendam às necessidades e preferências em constante mudança dos clientes, ao mesmo
 tempo em que se alinham com os objetivos estratégicos e a visão da organização.
 
-Construir uma comunidade de defensores e embaixadores da marca que possam ajudar a promover os produtos e serviços da organização,
-fornecendo feedback e insights valiosos.
+Construir uma **comunidade** de defensores e embaixadores da marca que possam ajudar a promover os produtos e serviços da organização,fornecendo feedback e insights valiosos.
 
-Melhorar a eficiência e eficácia operacional incorporando o feedback do usuario  nos processos de tomada de decisão, 
-otimizando os processos internos e melhorando o atendimento ao cliente.
+Melhorar a **eficiência e eficácia** operacional incorporando o feedback do usuario  nos processos de tomada de decisão,otimizando os processos internos e melhorando o atendimento ao cliente.
 
-Fortalecer a reputação e a imagem da estrurura de CTOs na organização, demonstrando um compromisso com valores centrados no cliente
-e ouvindo e respondendo ativamente ao feedback do cliente."
+Fortalecer a **reputação e a imagem** da estrurura de CTOs na organização, demonstrando um compromisso com valores centrados no cliente e ouvindo e respondendo ativamente ao feedback do cliente."
 
-# Passos importantes para estabelecer o modelo de CAB
+## Passos importantes para estabelecer o modelo de CAB
+
 Definir claramente o propósito e os objetivos do CAB e garantir que estejam alinhados com a estratégia e os objetivos gerais da organização.
 
 Identificar e recrutar os membros certos para o CAB, com base em sua experiência, expertise e capacidade de fornecer feedback e insights valiosos.
