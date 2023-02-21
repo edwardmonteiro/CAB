@@ -16,33 +16,33 @@ Como medir: Realizar pesquisas de satisfação do cliente antes e depois de impl
 ## Objetivo: Fortalecer a imagem e reputação dos produtos.
 
 **Resultados-chave: Taxa de recomendação dos produtos, presença nos canais oficiais e avaliações online.**
+    
     **Como medir:** Monitorar a taxa de recomendação da marca e a presença nas redes sociais, incluindo comentários e menções. Monitorar as avaliações online para avaliar a percepção do cliente em relação à marca e realizar pesquisas de mercado para avaliar o impacto da imagem da marca na decisão de compra do cliente.
 
-# Objetivo: Melhorar a eficiência operacional.
+## Objetivo: Melhorar a eficiência operacional.
 
 **Resultados-chave: Tempo médio de resposta ao cliente, número de chamados de suporte técnico, taxa de resolução de problemas**
+    
     **Como medir:** Monitorar o tempo médio de resposta ao cliente, o número de chamados de suporte técnico e a taxa de resolução de problemas para avaliar a eficiência operacional.
 
 ## Outras métricas importantes que podemos avaliar e incluir.
 
-Tempo médio de resposta: Meça o tempo que leva para a equipe responder às perguntas e solicitações dos membros do conselho consultivo do cliente.
+Tempo médio de resposta: tempo que leva para a equipe responder às perguntas e solicitações dos membros do conselho consultivo do cliente.
 
-NPS (Net Promoter Score): Realize pesquisas regulares com os membros do conselho consultivo do cliente para medir a satisfação geral e a disposição deles para recomendar a empresa.
+NPS (Net Promoter Score): pesquisas regulares com os membros do conselho consultivo do cliente para medir a satisfação geral e a disposição deles para recomendar a empresa.
 
-Taxa de participação: Meça a taxa de participação dos membros do conselho consultivo do cliente em reuniões e outras atividades.
+Taxa de participação: taxa de participação dos membros do conselho consultivo do cliente em reuniões e outras atividades.
 
 Taxa de retenção: Acompanhe quantos membros do conselho consultivo do cliente renovam sua participação de um ano para o outro.
 
-Taxa de implementação de feedback: Meça quantas sugestões ou comentários do conselho consultivo do cliente são implementados pela equipe.
+Taxa de implementação de feedback: total de sugestões ou comentários do conselho consultivo do cliente são implementados pela equipe.
 
-Para medir a eficiência da equipe, aqui estão algumas métricas que podem ser usadas:
+Tempo médio de resolução: tempo que leva para a equipe resolver os problemas apresentados pelos membros do conselho consultivo do cliente.
 
-Tempo médio de resolução: Meça o tempo que leva para a equipe resolver os problemas apresentados pelos membros do conselho consultivo do cliente.
+Taxa de resolução na primeira chamada: porcentagem de problemas que a equipe resolve na primeira chamada.
 
-Taxa de resolução na primeira chamada: Meça a porcentagem de problemas que a equipe resolve na primeira chamada.
+Taxa de satisfação do cliente: pesquisas regulares com os membros do conselho consultivo do cliente para medir sua satisfação com o atendimento recebido.
 
-Taxa de satisfação do cliente: Realize pesquisas regulares com os membros do conselho consultivo do cliente para medir sua satisfação com o atendimento recebido.
+Taxa de implementação de soluções: quantas soluções propostas pela equipe são implementadas.
 
-Taxa de implementação de soluções: Meça quantas soluções propostas pela equipe são implementadas.
-
-Taxa de atendimento ao SLA: Meça a porcentagem de solicitações do conselho consultivo do cliente que são resolvidas dentro do prazo acordado no acordo de nível de serviço.
+Taxa de atendimento ao SLA:  porcentagem de solicitações do conselho consultivo do cliente que são resolvidas dentro do prazo acordado no acordo de nível de serviço.

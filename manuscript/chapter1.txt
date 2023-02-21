@@ -6,7 +6,7 @@ capturando e analisando o feedback e os insights deles, e trabalhando para imple
 **alinhadas** com os objetivos estratégicos e valores de nossa organização.
 
 # Visão
-Criar uma experiência de cliente de classe mundial, onde nossos usuários estejam no centro de tudo o que fazemos.
+Criar uma experiência onde nossos usuários estejam no centro de tudo o que fazemos.
 Nosso conselho consultivo de clientes **(CAB)** será um recurso crítico para entender e atender às necessidades e preferências
 em constante evolução de nossos usuários, ao mesmo tempo em que impulsiona a inovação e o crescimento para nossa organização.
 
@@ -14,8 +14,7 @@ em constante evolução de nossos usuários, ao mesmo tempo em que impulsiona a 
 
 **Aumentar a retenção e a fidelidade dos usuários**, envolvendo-os e abordando suas preocupações, necessidades e preferências.
 
-Desenvolver **produtos e serviços** que atendam às necessidades e preferências em constante mudança dos clientes, ao mesmo
-tempo em que se alinham com os objetivos estratégicos e a visão da organização.
+Desenvolver **produtos e serviços** que atendam às necessidades e preferências em constante mudança dos clientes, ao mesmo tempo em que se alinham com os objetivos estratégicos e a visão da organização.
 
 Construir uma **comunidade** de defensores e embaixadores da marca que possam ajudar a promover os produtos e serviços da organização,fornecendo feedback e insights valiosos.
 
@@ -40,4 +39,6 @@ Comunicar regularmente com os membros do CAB e fornecer atualizações sobre com
 Fomentar uma cultura de centralidade no cliente em toda a organização e garantir que o feedback e insights do CAB sejam integrados em todos os níveis de tomada de decisão.
 
 Medir o impacto do CAB nos indicadores-chave de desempenho da organização CTO e usar essas informações para demonstrar o valor do CAB para a liderança sênior e os stakeholders.
+
+Criar mecanismos para Demonstrar e tangibilizar de forma antecipada evoluções nas funcionalides e novas funcionalides.
 
