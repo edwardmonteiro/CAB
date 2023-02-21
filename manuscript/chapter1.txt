@@ -8,29 +8,40 @@ melhorar a experiência do cliente e impulsionar a eficiencia e inovação. Vamo
 capturando e analisando o feedback e os insights deles, e trabalhando para implementar mudanças e melhorias que estejam 
 **alinhadas** com os objetivos estratégicos e valores de nossa organização.
 
-*Visão
+#Visão
 Criar uma experiência de cliente de classe mundial, onde nossos usuários estejam no centro de tudo o que fazemos.
 Nosso conselho consultivo de clientes **(CAB)** será um recurso crítico para entender e atender às necessidades e preferências
 em constante evolução de nossos usuários, ao mesmo tempo em que impulsiona a inovação e o crescimento para nossa organização.
 
-*Intenções Estratégicas
-**Aumentar a retenção e a fidelidade dos usuários, envolvendo-os e abordando suas preocupações, necessidades e preferências.
-**Desenvolver novos produtos e serviços que atendam às necessidades e preferências em constante mudança dos clientes, ao mesmo
+#Intenções Estratégicas
+Aumentar a retenção e a fidelidade dos usuários, envolvendo-os e abordando suas preocupações, necessidades e preferências.
+
+Desenvolver novos produtos e serviços que atendam às necessidades e preferências em constante mudança dos clientes, ao mesmo
 tempo em que se alinham com os objetivos estratégicos e a visão da organização.
-**Construir uma comunidade de defensores e embaixadores da marca que possam ajudar a promover os produtos e serviços da organização,
+
+Construir uma comunidade de defensores e embaixadores da marca que possam ajudar a promover os produtos e serviços da organização,
 fornecendo feedback e insights valiosos.
-**Melhorar a eficiência e eficácia operacional incorporando o feedback do usuario  nos processos de tomada de decisão, 
+
+Melhorar a eficiência e eficácia operacional incorporando o feedback do usuario  nos processos de tomada de decisão, 
 otimizando os processos internos e melhorando o atendimento ao cliente.
-**Fortalecer a reputação e a imagem da estrurura de CTOs na organização, demonstrando um compromisso com valores centrados no cliente
+
+Fortalecer a reputação e a imagem da estrurura de CTOs na organização, demonstrando um compromisso com valores centrados no cliente
 e ouvindo e respondendo ativamente ao feedback do cliente."
 
-*Passos importantes para estabelecer o modelo de CAB
-**Definir claramente o propósito e os objetivos do CAB e garantir que estejam alinhados com a estratégia e os objetivos gerais da organização.
-**Identificar e recrutar os membros certos para o CAB, com base em sua experiência, expertise e capacidade de fornecer feedback e insights valiosos.
-**Estabelecer uma cadência regular de reuniões e uma agenda, e garantir que as reuniões sejam bem estruturadas, produtivas e focadas em atingir os objetivos do CAB.
-**Fornecer treinamento e recursos aos membros do CAB para ajudá-los a se preparar para as reuniões e comunicar efetivamente seu feedback e insights.
-**Definir um mecanismo para capturar e analisar feedback e insights dos membros do CAB e usar essas informações para impulsionar a tomada de decisões e roadmaps dos CTOS.
-**Comunicar regularmente com os membros do CAB e fornecer atualizações sobre como seu feedback está sendo incorporado aos processos de tomada de decisão da organização.
-**Fomentar uma cultura de centralidade no cliente em toda a organização e garantir que o feedback e insights do CAB sejam integrados em todos os níveis de tomada de decisão.
-**Medir o impacto do CAB nos indicadores-chave de desempenho da organização CTO e usar essas informações para demonstrar o valor do CAB para a liderança sênior e os stakeholders.
+#Passos importantes para estabelecer o modelo de CAB
+Definir claramente o propósito e os objetivos do CAB e garantir que estejam alinhados com a estratégia e os objetivos gerais da organização.
+
+Identificar e recrutar os membros certos para o CAB, com base em sua experiência, expertise e capacidade de fornecer feedback e insights valiosos.
+
+Estabelecer uma cadência regular de reuniões e uma agenda, e garantir que as reuniões sejam bem estruturadas, produtivas e focadas em atingir os objetivos do CAB.
+
+Fornecer treinamento e recursos aos membros do CAB para ajudá-los a se preparar para as reuniões e comunicar efetivamente seu feedback e insights.
+
+Definir um mecanismo para capturar e analisar feedback e insights dos membros do CAB e usar essas informações para impulsionar a tomada de decisões e roadmaps dos CTOS.
+
+Comunicar regularmente com os membros do CAB e fornecer atualizações sobre como seu feedback está sendo incorporado aos processos de tomada de decisão da organização.
+
+Fomentar uma cultura de centralidade no cliente em toda a organização e garantir que o feedback e insights do CAB sejam integrados em todos os níveis de tomada de decisão.
+
+Medir o impacto do CAB nos indicadores-chave de desempenho da organização CTO e usar essas informações para demonstrar o valor do CAB para a liderança sênior e os stakeholders.
 
