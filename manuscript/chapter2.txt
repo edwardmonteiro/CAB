@@ -1,19 +1,19 @@
 # Objetivos e Indicadores de sucesso e sugestão de métricas para acompanhamento e evolução
 
-# Objetivo: Melhorar a experiência do cliente.
+## Objetivo: Melhorar a experiência do cliente.
 
 Resultados-chave: Taxa de satisfação do cliente, Net Promoter Score, tempo médio de resolução de problemas.
 
 Como medir: Realizar pesquisas de satisfação do cliente antes e depois de implementar as sugestões do Conselho Consultivo. Acompanhar o aumento do Net Promoter Score e a redução do tempo médio de resolução de problemas.
 
-# Objetivo: Desenvolver produtos e serviços que atendam às necessidades dos clientes.
+## Objetivo: Desenvolver produtos e serviços que atendam às necessidades dos clientes.
 
 **Resultados-chave: Taxa de adoção de produtos**
 
     **Como medir:** Acompanhar a adoção de produtos e serviços. 
 
 
-# Objetivo: Fortalecer a imagem e reputação dos produtos.
+## Objetivo: Fortalecer a imagem e reputação dos produtos.
 
 **Resultados-chave: Taxa de recomendação dos produtos, presença nos canais oficiais e avaliações online.**
     **Como medir:** Monitorar a taxa de recomendação da marca e a presença nas redes sociais, incluindo comentários e menções. Monitorar as avaliações online para avaliar a percepção do cliente em relação à marca e realizar pesquisas de mercado para avaliar o impacto da imagem da marca na decisão de compra do cliente.
@@ -23,7 +23,7 @@ Como medir: Realizar pesquisas de satisfação do cliente antes e depois de impl
 **Resultados-chave: Tempo médio de resposta ao cliente, número de chamados de suporte técnico, taxa de resolução de problemas**
     **Como medir:** Monitorar o tempo médio de resposta ao cliente, o número de chamados de suporte técnico e a taxa de resolução de problemas para avaliar a eficiência operacional.
 
-# Outras métricas importantes que podemos avaliar e incluir.
+## Outras métricas importantes que podemos avaliar e incluir.
 
 Tempo médio de resposta: Meça o tempo que leva para a equipe responder às perguntas e solicitações dos membros do conselho consultivo do cliente.
 
