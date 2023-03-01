@@ -1,48 +1,46 @@
-# Objetivos e Indicadores de sucesso e sugestão de métricas para acompanhamento e evolução
+# Condução do Programa ICAB - Itau Community Advisory Board
 
-## Objetivo: Melhorar a experiência do cliente.
+Iremos conduzir nosso Customer Advisory Board (CAB) para reunir feedback dos nossos times e  Comunidades e entender suas necessidades, desafios e requisitos. 
+O programa CAB é projetado para ajudar a melhorar nossos produtos e serviços e fornecer melhor suporte aos seus times e Comunidades.
 
-Resultados-chave: Taxa de satisfação do cliente, Net Promoter Score, tempo médio de resolução de problemas.
+Aqui está uma breve visão geral de como a AWS conduz seu programa Customer Advisory Board:
 
-Como medir: Realizar pesquisas de satisfação do cliente antes e depois de implementar as sugestões do Conselho Consultivo. Acompanhar o aumento do Net Promoter Score e a redução do tempo médio de resolução de problemas.
-
-## Objetivo: Desenvolver produtos e serviços que atendam às necessidades dos clientes.
-
-**Resultados-chave: Taxa de adoção de produtos**
-
-    **Como medir:** Acompanhar a adoção de produtos e serviços. 
+# Visão Geral do ICAB  Itau Community Advisory Board
 
 
-## Objetivo: Fortalecer a imagem e reputação dos produtos.
+Conduzimos nosso progrma  para reunir feedback dos nossos time e comunidades e e entender suas necessidades, desafios e requisitos. 
+O programa ICAB é projetado para ajudar as comunidades Enablers a melhorar seus produtos e serviços e fornecer melhor suporte aos seus times e comunidades integradas.
 
-**Resultados-chave: Taxa de recomendação dos produtos, presença nos canais oficiais e avaliações online.**
-    
-    **Como medir:** Monitorar a taxa de recomendação da marca e a presença nas redes sociais, incluindo comentários e menções. Monitorar as avaliações online para avaliar a percepção do cliente em relação à marca e realizar pesquisas de mercado para avaliar o impacto da imagem da marca na decisão de compra do cliente.
+Convite: As comunidades Enablers convidam os representantes das comunidades integradas para ingressarem no programa ICAB,
+seja por meio de contato direto ou por inscrição voluntaria. 
+Os convidados a ingressar no ICAB são geralmente comunidades que tem interesse em co-criar e evoluir os produtos e serviços de tecnologia.
 
-## Objetivo: Melhorar a eficiência operacional.
+Reuniões: Uma vez que os membros são selecionados para ingressar no programa ICAB, temos uma agenda reuniões regulares com eles. 
+Essas reuniões podem ser presenciais ou virtuais e geralmente ocorrem trimestral ou semestralmente. 
+Durante essas reuniões, as comunidades fornecem feedback adicionais sobre os serviços e produtos e discutem suas experiências, dores  e desafios.
 
-**Resultados-chave: Tempo médio de resposta ao cliente, número de chamados de suporte técnico, taxa de resolução de problemas**
-    
-    **Como medir:** Monitorar o tempo médio de resposta ao cliente, o número de chamados de suporte técnico e a taxa de resolução de problemas para avaliar a eficiência operacional.
+Pauta: A pauta das reuniões do ICAB é preparada antecipadamente e baseada no feedback e solicitações doas comunidades. 
+A pauta inclui discussões sobre os novos e próximos serviços das Comunidades Enablers, as melhores práticas para usar produtos e serviços e abordar quaisquer preocupações ou problemas levantados pelos times das comunidades Integradas.
 
-## Outras métricas importantes que podemos avaliar e incluir.
+Feedback: Todo feedback dos times e comunidades durante as reuniões do ICAB,  é usado para melhorar produtos,  serviços e suporte. 
+Essa interação é  compartilha  com todas equipes de produtos para ajudá-las a priorizar seus esforços de desenvolvimento.
 
-Tempo médio de resposta: tempo que leva para a equipe responder às perguntas e solicitações dos membros do conselho consultivo do cliente.
+#Qual a frequencia e duração dos encontros
 
-NPS (Net Promoter Score): pesquisas regulares com os membros do conselho consultivo do cliente para medir a satisfação geral e a disposição deles para recomendar a empresa.
+A frequência e duração das reuniões do programa Conselho Consultivo de Clientes (ICAB) podem variar dependendo das necessidades 
+e disponibilidade dos membros. 
 
-Taxa de participação: taxa de participação dos membros do conselho consultivo do cliente em reuniões e outras atividades.
+Frequência: As reuniões do ICAB geralmente ocorrem trimestralmente ou semestralmente, dependendo das necessidades dos membros e 
+do ciclo de desenvolvimento de produtos.
 
-Taxa de retenção: Acompanhe quantos membros do conselho consultivo do cliente renovam sua participação de um ano para o outro.
+Duração: A duração das reuniões do ICAB pode variar de meio dia a dois dias, dependendo da agenda e do número de tópicos a serem 
+abordados.
 
-Taxa de implementação de feedback: total de sugestões ou comentários do conselho consultivo do cliente são implementados pela equipe.
+Localização: As reuniões do ICAB podem ocorrer presencialmente ou virtualmente, dependendo da localização e disponibilidade dos 
+membros. 
 
-Tempo médio de resolução: tempo que leva para a equipe resolver os problemas apresentados pelos membros do conselho consultivo do cliente.
+Agenda: A agenda das reuniões do ICAB é geralmente determinada com antecedência com base no feedback e solicitações dos membros. 
+A agenda pode incluir tópicos como novos serviços, boas práticas de uso e abordagem de quaisquer preocupações ou problemas levantados pelos membros.
 
-Taxa de resolução na primeira chamada: porcentagem de problemas que a equipe resolve na primeira chamada.
-
-Taxa de satisfação do cliente: pesquisas regulares com os membros do conselho consultivo do cliente para medir sua satisfação com o atendimento recebido.
-
-Taxa de implementação de soluções: quantas soluções propostas pela equipe são implementadas.
-
-Taxa de atendimento ao SLA:  porcentagem de solicitações do conselho consultivo do cliente que são resolvidas dentro do prazo acordado no acordo de nível de serviço.
+Follow-up: Após cada reunião do ICAB, é fornecido aos membros um resumo das discussões e quaisquer ações necessárias. 
+O feedback também é compartilhado com as equipes de produtos e engenharia, que o usam para melhorar os produtos e serviços.

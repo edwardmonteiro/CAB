@@ -1,0 +1,42 @@
+# Objetivos e Indicadores de sucesso e sugestão de métricas para acompanhamento e evolução
+
+## Objetivo: Melhorar a experiência das comunidades e usuários dos produtos e serviços.
+
+Resultados-chave: Taxa de satisfação , Net Promoter Score, tempo médio de resolução de problemas.
+
+    **Como medir: Realizar pesquisas de satisfação antes e depois de implementar as sugestões do Conselho Consultivo. 
+
+## Objetivo: Desenvolver produtos e serviços que atendam às necessidades das comunidades e times.
+
+**Resultados-chave: Taxa de adoção de produtos**
+
+    **Como medir:** Acompanhar a adoção de produtos e serviços. 
+
+
+## Objetivo: Fortalecer a imagem e reputação dos produtos.
+
+**Resultados-chave: Taxa de recomendação dos produtos, presença nos canais oficiais e avaliações online.**
+    
+    **Como medir:** Monitorar a taxa de recomendação da marca e a presença nas redes sociais, incluindo comentários e menções. 
+    Monitorar as avaliações online para avaliar a percepção dos usuários em relação aos produtos e serviços.
+
+## Objetivo: Melhorar a eficiência operacional.
+
+**Resultados-chave: Tempo médio de resposta aos usuários e comunidades, número de chamados de suporte técnico, taxa de resolução de problemas**
+    
+    **Como medir:** Monitorar o tempo médio de resposta aos usuários, o número de chamados de suporte técnico e a taxa de resolução de problemas para avaliar a eficiência operacional.
+
+## Outras métricas importantes que podemos avaliar e incluir.
+
+Tempo médio de resposta: tempo que leva para a equipe responder às perguntas e solicitações dos membros do conselho consultivo do cliente.
+
+NPS (Net Promoter Score): pesquisas regulares com os membros do conselho consultivo do cliente para medir a satisfação geral e a disposição deles para recomendar a empresa.
+
+Taxa de participação: taxa de participação dos membros do conselho consultivo do cliente em reuniões e outras atividades.
+
+Taxa de implementação de feedback: total de sugestões ou comentários do conselho consultivo do cliente são implementados pela equipe.
+
+Tempo médio de resolução: tempo que leva para a equipe resolver os problemas apresentados pelos membros do conselho consultivo do cliente.
+
+Taxa de atendimento ao SLA:  porcentagem de solicitações que são resolvidas dentro do prazo acordado no acordo de nível de serviço.
+
