@@ -1,31 +1,24 @@
 # Condução do Programa ICAB - Itau Community Advisory Board
 
-Iremos conduzir nosso Customer Advisory Board (CAB) para reunir feedback dos nossos times e  Comunidades e entender suas necessidades, desafios e requisitos. 
-O programa CAB é projetado para ajudar a melhorar nossos produtos e serviços e fornecer melhor suporte aos seus times e Comunidades.
-
-Aqui está uma breve visão geral de como a AWS conduz seu programa Customer Advisory Board:
+Iremos conduzir nosso Itau Community Advisory Board (ICAB) para reunir feedback dos nossos times e  Comunidades e entender suas necessidades, desafios e requisitos. 
+O programa ICAB é projetado para ajudar a melhorar nossos produtos e serviços e fornecer melhor suporte aos seus times e Comunidades.
 
 # Visão Geral do ICAB  Itau Community Advisory Board
-
 
 Conduzimos nosso progrma  para reunir feedback dos nossos time e comunidades e e entender suas necessidades, desafios e requisitos. 
 O programa ICAB é projetado para ajudar as comunidades Enablers a melhorar seus produtos e serviços e fornecer melhor suporte aos seus times e comunidades integradas.
 
 Convite: As comunidades Enablers convidam os representantes das comunidades integradas para ingressarem no programa ICAB,
 seja por meio de contato direto ou por inscrição voluntaria. 
-Os convidados a ingressar no ICAB são geralmente comunidades que tem interesse em co-criar e evoluir os produtos e serviços de tecnologia.
 
 Reuniões: Uma vez que os membros são selecionados para ingressar no programa ICAB, temos uma agenda reuniões regulares com eles. 
 Essas reuniões podem ser presenciais ou virtuais e geralmente ocorrem trimestral ou semestralmente. 
 Durante essas reuniões, as comunidades fornecem feedback adicionais sobre os serviços e produtos e discutem suas experiências, dores  e desafios.
 
-Pauta: A pauta das reuniões do ICAB é preparada antecipadamente e baseada no feedback e solicitações doas comunidades. 
-A pauta inclui discussões sobre os novos e próximos serviços das Comunidades Enablers, as melhores práticas para usar produtos e serviços e abordar quaisquer preocupações ou problemas levantados pelos times das comunidades Integradas.
-
 Feedback: Todo feedback dos times e comunidades durante as reuniões do ICAB,  é usado para melhorar produtos,  serviços e suporte. 
 Essa interação é  compartilha  com todas equipes de produtos para ajudá-las a priorizar seus esforços de desenvolvimento.
 
-#Qual a frequencia e duração dos encontros
+# Qual a frequencia e duração dos encontros
 
 A frequência e duração das reuniões do programa Conselho Consultivo de Clientes (ICAB) podem variar dependendo das necessidades 
 e disponibilidade dos membros. 
