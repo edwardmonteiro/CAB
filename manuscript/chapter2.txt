@@ -1,36 +1,25 @@
-# Condução do Programa ICAB - Itau Community Advisory Board
-
-Iremos conduzir nosso Itau Community Advisory Board (ICAB) para reunir feedback dos nossos times e  Comunidades e entender suas necessidades, desafios e requisitos. 
-O programa ICAB é projetado para ajudar a melhorar nossos produtos e serviços e fornecer melhor suporte aos seus times e Comunidades.
-
 # Visão Geral do ICAB  Itau Community Advisory Board
 
 Conduzimos nosso progrma  para reunir feedback dos nossos time e comunidades e e entender suas necessidades, desafios e requisitos. 
 O programa ICAB é projetado para ajudar as comunidades Enablers a melhorar seus produtos e serviços e fornecer melhor suporte aos seus times e comunidades integradas.
 
-Convite: As comunidades Enablers convidam os representantes das comunidades integradas para ingressarem no programa ICAB,
-seja por meio de contato direto ou por inscrição voluntaria. 
+Convite: As comunidades Enablers convidam os representantes das comunidades integradas para ingressarem no programa ICAB,seja por meio de contato direto ou por inscrição voluntaria. 
 
 Reuniões: Uma vez que os membros são selecionados para ingressar no programa ICAB, temos uma agenda reuniões regulares com eles. 
-Essas reuniões podem ser presenciais ou virtuais e geralmente ocorrem trimestral ou semestralmente. 
 Durante essas reuniões, as comunidades fornecem feedback adicionais sobre os serviços e produtos e discutem suas experiências, dores  e desafios.
+Essas reuniões podem ser presenciais ou virtuais respeitando uma cadencia que seja alinhada as releases e necessidades das Comunidades.
+
 
 Feedback: Todo feedback dos times e comunidades durante as reuniões do ICAB,  é usado para melhorar produtos,  serviços e suporte. 
 Essa interação é  compartilha  com todas equipes de produtos para ajudá-las a priorizar seus esforços de desenvolvimento.
 
 # Qual a frequencia e duração dos encontros
 
-A frequência e duração das reuniões do programa Conselho Consultivo de Clientes (ICAB) podem variar dependendo das necessidades 
-e disponibilidade dos membros. 
+Frequência: As reuniões do ICAB geralmente ocorrem trimestralmente ou semestralmente, dependendo das necessidades dos membros e do ciclo de desenvolvimento de produtos.
 
-Frequência: As reuniões do ICAB geralmente ocorrem trimestralmente ou semestralmente, dependendo das necessidades dos membros e 
-do ciclo de desenvolvimento de produtos.
+Duração: A duração das reuniões do ICAB pode variar de meio dia a dois dias, dependendo da agenda e do número de tópicos a serem abordados.
 
-Duração: A duração das reuniões do ICAB pode variar de meio dia a dois dias, dependendo da agenda e do número de tópicos a serem 
-abordados.
-
-Localização: As reuniões do ICAB podem ocorrer presencialmente ou virtualmente, dependendo da localização e disponibilidade dos 
-membros. 
+Localização: As reuniões do ICAB podem ocorrer presencialmente ou virtualmente, dependendo da localização e disponibilidade dos membros. 
 
 Agenda: A agenda das reuniões do ICAB é geralmente determinada com antecedência com base no feedback e solicitações dos membros. 
 A agenda pode incluir tópicos como novos serviços, boas práticas de uso e abordagem de quaisquer preocupações ou problemas levantados pelos membros.
