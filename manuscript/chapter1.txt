@@ -1,45 +1,32 @@
-# Itau Customer Advisory Board 
+# Itau Community Advisory Board 
 
-Nosso **objetivo** é criar uma mecanica **colaborativa**  que forneça feedback e insights valiosos para
-melhorar a experiência dos times e comunidades integradas. 
-Vamos alcançar isso envolvendo um grupo diversificado de pessoas, capturando e analisando o feedback e os insights deles,
-e trabalhando para implementar mudanças e melhorias que estejam  **alinhadas** com os objetivos estratégicos e valores de nossa organização.
+Nosso **objetivo** é criar uma mecanica **colaborativa**  que forneça feedback e insights valiosos para melhorar a experiência dos nossos times e comunidades integradas. 
+Vamos alcançar isso envolvendo um grupo diverso de pessoas, capturando e analisando o feedback e os insights deles,e trabalhando para implementar mudanças e melhorias que estejam  **alinhadas** com os objetivos estratégicos e valores de nossa organização.
 
 # Visão
-Criar uma experiência onde nossos usuários estejam no centro de tudo o que fazemos.
-O Itau Customer Advisory Board **(ICAB)** será um recurso crítico para entender e atender às necessidades e preferências
-em constante evolução de nossos times e comunidades, ao mesmo tempo em que impulsiona a inovação e o crescimento para nossa organização.
+O Itau Customer Advisory Board **(ICAB)** será um recurso valioso para entender e atender às necessidades e preferências em constante evolução de nossos times e comunidades, ao mesmo tempo em que impulsiona a inovação e o crescimento para nossa organização.
 
 # Intenções Estratégicas
 
-**Direcionar a evolução dos nossos produtos para resolver as dores e criar capacidades desejadas por nossos times**, 
-envolvendo-os e abordando suas preocupações, tornando seu dia mais simples , seguro , eficiente  e respeitando suas preferências.
+**Direcionar a evolução dos nossos produtos para resolver as dores e criar capacidades desejadas por nossos times**, envolvendo-os e abordando suas preocupações, tornando seu dia mais simples , seguro , eficiente  e respeitando suas preferências.
 
-Desenvolver **produtos e serviços** que atendam às necessidades e preferências em constante mudança dos nossos times e comunidades,
-ao mesmo tempo em que se alinham com os objetivos estratégicos da organização.
+Desenvolver **produtos e serviços** que atendam às necessidades e preferências em constante mudança dos nossos times e comunidades,ao mesmo tempo em que se alinham com os objetivos estratégicos da organização.
 
-Construir uma **comunidade** de defensores e embaixadores que possam ajudar a promover os produtos e serviços da organização,fornecendo feedback e insights valiosos.
-
-Melhorar a **eficiência e eficácia** operacional incorporando o feedback dos nossos times e comunidades nos processos de tomada de decisão,otimizando os processos internos e melhorando 
-de forma exponencial nossos produtos e serviços técnicos.
-
-Fortalecer a **reputação e a imagem** da estrurura de CTOs na organização, demonstrando um compromisso com valores centrados no cliente e ouvindo e respondendo ativamente ao feedback dos nossos times e comunidades."
+Melhorar a **eficiência e eficácia** operacional incorporando o feedback dos nossos times e comunidades nos processos de tomada de decisão e priorização dos serviços técnicos ,otimizando os processos internos e melhorando de forma exponencial nossos produtos e serviços técnicos.
 
 ## Passos importantes para estabelecer o modelo de ICAB
 
-Definir claramente o propósito e os objetivos do ICAB e garantir que estejam alinhados com a estratégia e os objetivos gerais da organização.
+Definir claramente o propósito e os objetivos do ICAB e garantir que estejam alinhados com a estratégia e os objetivos gerais das Comunidades Integradas.
 
 Identificar e recrutar os membros certos para o ICAB, com base em sua experiência, expertise e capacidade de fornecer feedback e insights valiosos.
 
-Estabelecer uma cadência regular de reuniões e uma agenda, e garantir que as reuniões sejam bem estruturadas, produtivas e focadas em atingir os objetivos do CAB.
+Estabelecer uma cadência regular de reuniões e uma agenda, e garantir que as reuniões sejam bem estruturadas e produtivas.
 
-Fornecer treinamento e recursos aos membros do ICAB para ajudá-los a se preparar para as reuniões e comunicar efetivamente seu feedback e insights.
+Definir um mecanismo para capturar e analisar feedback e insights dos membros do ICAB e usar essas informações para impulsionar a tomada de decisões e roadmaps dos CTOS.
 
-Definir um mecanismo para capturar e analisar feedback e insights dos membros do CAB e usar essas informações para impulsionar a tomada de decisões e roadmaps dos CTOS.
+Comunicar regularmente com os membros do ICAB e fornecer atualizações sobre como seu feedback está sendo incorporado aos produtos e serviços.
 
-Comunicar regularmente com os membros do ICAB e fornecer atualizações sobre como seu feedback está sendo incorporado aos processos de tomada de decisão da organização.
-
-Fomentar uma cultura de centralidade no cliente em toda a organização e garantir que o feedback e insights do CAB sejam integrados em todos os níveis de tomada de decisão das comunidades Enablers.
+Fomentar uma cultura de centralidade no cliente em toda a organização e garantir que o feedback e insights do ICAB sejam integrados em todos os níveis de tomada de decisão das comunidades Enablers.
 
 Medir o impacto do ICAB nos indicadores-chave de desempenho da organização e usar essas informações para diredcionar investimentos.
 
